@@ -5,4 +5,4 @@ resultado = Sumando(20,10)
 
 print("El resultado de la Suma es: ",resultado)
 
-print("Este es un cambio hecho por otro desarrolador.")
+print("Vuelvo a realizar otro cambio a este archivo")
